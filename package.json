@@ -1,0 +1,12 @@
+{
+  "name": "pezinho-app",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "vtex",
+  "engines": {
+    "node-sdk": "0.x"
+  },
+  "config": {
+    "policies": []
+  }
+}
